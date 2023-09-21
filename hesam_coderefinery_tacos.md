@@ -6,7 +6,7 @@ This recipe is taken as an example from https://github.com/sinker/tacofancy/blob
 
 We embrace the meat.
 
-- Minced lamb meat
+- No Minced meat anymore
 - Roast cauliflower
 - Pickled chilis and vegetables
 - Caramelized red onions
